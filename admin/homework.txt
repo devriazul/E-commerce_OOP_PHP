@@ -1,0 +1,4 @@
+1. session message correct
+2. subcategory add, edit, delete, view
+	form -> category loop, subcategory name
+3. product add validation

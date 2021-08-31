@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^ecommerce\.fastitbd\.com$
+RewriteRule ^/?$ "https\:\/\/ecommerce\.fastitbd\.com\/frontend" [R=301,L]
+
